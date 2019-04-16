@@ -1,0 +1,9 @@
+alpha-movie/*.iml
+alpha-movie/.gradle
+alpha-movie/local.properties
+alpha-movie/.idea/workspace.xml
+alpha-movie/.idea/libraries
+alpha-movie.DS_Store
+alpha-movie/build
+alpha-movie/captures
+alpha-movie/.externalNativeBuild
